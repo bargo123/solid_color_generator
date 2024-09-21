@@ -80,7 +80,7 @@ class _HelloThereScreenState extends State<HelloThereScreen> {
                   ),
                 ),
               ),
-              SizedBox(
+              const SizedBox(
                 height: 10,
               ),
               Text(
