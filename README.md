@@ -1,17 +1,11 @@
-# color_generator
+# Hello Random Color App
 
-A new Flutter project.
+## Overview
+The **Hello Random Color App** is a simple Flutter application that displays the text "Hello there" in the center of the screen. When the user taps anywhere on the screen, the background color changes to a randomly generated color. The app can generate up to 16,777,216 colors using the RGB model. Additionally, the app includes a feature that determines whether the generated color is dark or light and adjusts the text color accordingly to maintain readability.
 
-## Getting Started
+## Features
+- **Random Color Generation:** Generates a new random background color when the screen is tapped, with 16,777,216 possible colors.
+- **Light/Dark Color Detection:** Determines if the generated color is light or dark and adjusts the text color (black or white) for optimal contrast.
+- **Shake-to-Reset (Bonus Feature):** Resets the background color to white when the device is shaken.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# solid_color_generator
